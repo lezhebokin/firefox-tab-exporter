@@ -6,7 +6,7 @@
 
 Утилита с открытым исходным кодом для экспорта открытых вкладок Firefox. Используется файл сессии `recovery.jsonlz4` или `sessionstore.jsonlz4`. В программе реализован автоматический поиск, рекомендуется использовать его
 
-![interface](resource/interface.png)
+![interface](resources/interface.png)
 
 ## Возможности
 
